@@ -17,6 +17,10 @@ app.get('/registro', (req, res) =>
 });
 
 
+app.get('/login', (req, res) => 
+{ res.send('ruta de login nueva');
+});
+
 app.listen(3000, () =>{
     console.log('Example app listening on port 3000!');
 });
