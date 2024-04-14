@@ -12,6 +12,10 @@ app.get('/adioos', (req, res) =>
 { res.send('ruta adios');
 });
 
+app.get('/login', (req, res) => 
+{ res.send('ruta de login nueva');
+});
+
 app.listen(3000, () =>{
     console.log('Example app listening on port 3000!');
 });
