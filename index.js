@@ -12,6 +12,19 @@ app.get('/adioos', (req, res) =>
 { res.send('ruta adios');
 });
 
+app.get('/adioos', (req, res) => 
+{ res.send('ruta adios');
+});
+
+
+app.get('/adioos', (req, res) => 
+{ res.send('ruta adios');
+});
+
+app.get('/adioos', (req, res) => 
+{ res.send('ruta adios');
+});
+
 app.get('/registro', (req, res) => 
 { res.send('registro');
 });
