@@ -1,0 +1,29 @@
+.titulo{
+    text-align: left;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+
+.parrafos{
+    display: flex;
+}
+
+.texto1{
+   text-align: center;
+ margin: 50px 200px;
+}
+
+
+.texto2{
+    text-align: center;
+    margin: 50px 200px;
+}
+
+.texto3{
+    text-align: center;
+    padding-right: 10px;
+    margin: 50px 150px;
+}

@@ -3,13 +3,30 @@ body{
 }
 .formulario{
     background-color: #fff;
-    border: 1px solid #e5e5e5;
-    padding: 10px;
-    margin: 10px;
-    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-    -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    border: 9px solid #e5e5e5;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 10px auto;
+    text-align: center;
+    -webkit-box-shadow: 0 20px 20px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 20px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 20px 20px rgba(0,0,0,0.1);
+
 }
+
+.titulo{
+    text-align: right; 
+}
+.botonenvio{
+ text-align: center;   
+}
+
+.Relleno{
+    padding: 25px;
+    text-align: center;
+   
+}
+
 
 form{
     border: solid 1px #ccc;
