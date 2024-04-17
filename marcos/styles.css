@@ -1,0 +1,42 @@
+.contenido-centrado {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.page1 {
+    width: 20%; 
+    float:left; 
+    margin-right: 5%;
+    margin: 18px;
+    
+}
+
+.page2 {
+    width: 20%; 
+    float:left; 
+    margin-right: 5%;
+    margin: 18px;
+    
+}
+
+.page3 {
+    width: 20%; 
+    float:left; 
+    margin-right: 5%;
+    margin: 18px;
+}
+
+.blog {
+    width: 20%; 
+    float:right; 
+    margin-right: 5%;
+    margin: 18px;
+}
+
+.articulos {
+    width: 20%; 
+    float:left; 
+    margin-right: 5%;
+    margin: 18px;
+}
