@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/960/590/small/abstract-watercolor-texture-wallpaper-background-free-vector.jpg");
+    max-height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 50px;
+    width: 333px;
+    margin: 100px auto;
+    padding: 10px;
+    border: 3px solid red;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    height: 333px;
+    width: 333px;
+    margin: 100px auto;
+    padding: 10px;
+    /* border: 3px solid red; */
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    height: 50px;
+    background: rgb(120, 117, 117);
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Para centrar el texto horizontalmente */
+    padding: 5px;
+}
+
+h1 {
+    margin: 0; /* Eliminar el margen predeterminado del encabezado */
+}
